@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "RandomPetGenerator",
+    "name": "Random Pet Generator",
+    "description": "Load the name and image of a pet randomly from the internet and display it on the screen.",
     "slug": "RandomPetGenerator",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
